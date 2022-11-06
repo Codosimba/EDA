@@ -1,1 +1,13 @@
+ Did you know that countries like NewZealand , Singapore, Qatar have higher resataurants per city than Australia???
 
+Performing EDA on Zomato Dataset.
+-- Deriving important buisness aspects from it.
+Using Pandas , Matplotlib, Seaborn. 
+
+
+Also, Creating Widgets from IPywidgets module to give user more control over the insights then want to extract.
+
+Some of the observation made are-
+1. Top 5 cities in which zomato operates
+2. Number of restaurants per country have
+3. Ratings trend given by the customer
